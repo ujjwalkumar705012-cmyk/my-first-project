@@ -1,7 +1,7 @@
 gsap.set("#heading h1",{x: -1500});
 gsap.to("#heading h1",{
     x:1280,
-    duration:5,
+    duration:10,
     delay:0,
     repeat:-1,
     onRepeat:()=>{
